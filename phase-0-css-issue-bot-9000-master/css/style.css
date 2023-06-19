@@ -1,0 +1,23 @@
+body {
+  background color ;color: pink;
+}
+
+h1 {
+  color: blue;
+  font-size;len 3em; 
+}
+
+h2 {
+  color: green;
+  font-weight; normal
+  font-size;font-style: ;
+}
+
+.completed {
+  font-size: value:12px;
+}
+
+#tasks .completed {
+  background-color:  #ccc;
+  text-decoration: underline;
+}
